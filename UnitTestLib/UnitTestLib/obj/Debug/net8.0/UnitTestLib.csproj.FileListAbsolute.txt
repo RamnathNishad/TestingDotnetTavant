@@ -1,0 +1,11 @@
+D:\UnitTesttavant\UnitTestLib\UnitTestLib\bin\Debug\net8.0\UnitTestLib.deps.json
+D:\UnitTesttavant\UnitTestLib\UnitTestLib\bin\Debug\net8.0\UnitTestLib.dll
+D:\UnitTesttavant\UnitTestLib\UnitTestLib\bin\Debug\net8.0\UnitTestLib.pdb
+D:\UnitTesttavant\UnitTestLib\UnitTestLib\obj\Debug\net8.0\UnitTestLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\UnitTesttavant\UnitTestLib\UnitTestLib\obj\Debug\net8.0\UnitTestLib.AssemblyInfoInputs.cache
+D:\UnitTesttavant\UnitTestLib\UnitTestLib\obj\Debug\net8.0\UnitTestLib.AssemblyInfo.cs
+D:\UnitTesttavant\UnitTestLib\UnitTestLib\obj\Debug\net8.0\UnitTestLib.csproj.CoreCompileInputs.cache
+D:\UnitTesttavant\UnitTestLib\UnitTestLib\obj\Debug\net8.0\UnitTestLib.dll
+D:\UnitTesttavant\UnitTestLib\UnitTestLib\obj\Debug\net8.0\refint\UnitTestLib.dll
+D:\UnitTesttavant\UnitTestLib\UnitTestLib\obj\Debug\net8.0\UnitTestLib.pdb
+D:\UnitTesttavant\UnitTestLib\UnitTestLib\obj\Debug\net8.0\ref\UnitTestLib.dll

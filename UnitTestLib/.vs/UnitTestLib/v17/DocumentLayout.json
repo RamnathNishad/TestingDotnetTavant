@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\UnitTesttavant\\UnitTestLib\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0F07DCD4-E030-45E0-BB2D-E3677C572728}|UnitTestLib\\UnitTestLib.csproj|d:\\unittesttavant\\unittestlib\\unittestlib\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F07DCD4-E030-45E0-BB2D-E3677C572728}|UnitTestLib\\UnitTestLib.csproj|solutionrelative:unittestlib\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D382223D-2B6F-40EC-9921-F74D471AAE93}|TestProject1\\TestProject1.csproj|d:\\unittesttavant\\unittestlib\\testproject1\\studentservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D382223D-2B6F-40EC-9921-F74D471AAE93}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\studentservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F07DCD4-E030-45E0-BB2D-E3677C572728}|UnitTestLib\\UnitTestLib.csproj|d:\\unittesttavant\\unittestlib\\unittestlib\\studentnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F07DCD4-E030-45E0-BB2D-E3677C572728}|UnitTestLib\\UnitTestLib.csproj|solutionrelative:unittestlib\\studentnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D382223D-2B6F-40EC-9921-F74D471AAE93}|TestProject1\\TestProject1.csproj|d:\\unittesttavant\\unittestlib\\testproject1\\loancalculatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D382223D-2B6F-40EC-9921-F74D471AAE93}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\loancalculatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F07DCD4-E030-45E0-BB2D-E3677C572728}|UnitTestLib\\UnitTestLib.csproj|d:\\unittesttavant\\unittestlib\\unittestlib\\loancalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F07DCD4-E030-45E0-BB2D-E3677C572728}|UnitTestLib\\UnitTestLib.csproj|solutionrelative:unittestlib\\loancalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F07DCD4-E030-45E0-BB2D-E3677C572728}|UnitTestLib\\UnitTestLib.csproj|d:\\unittesttavant\\unittestlib\\unittestlib\\loaneligibilityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F07DCD4-E030-45E0-BB2D-E3677C572728}|UnitTestLib\\UnitTestLib.csproj|solutionrelative:unittestlib\\loaneligibilityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D382223D-2B6F-40EC-9921-F74D471AAE93}|TestProject1\\TestProject1.csproj|d:\\unittesttavant\\unittestlib\\testproject1\\loaneligibilitytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D382223D-2B6F-40EC-9921-F74D471AAE93}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\loaneligibilitytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentServiceTest.cs",
+              "DocumentMoniker": "D:\\UnitTesttavant\\UnitTestLib\\TestProject1\\StudentServiceTest.cs",
+              "RelativeDocumentMoniker": "TestProject1\\StudentServiceTest.cs",
+              "ToolTip": "D:\\UnitTesttavant\\UnitTestLib\\TestProject1\\StudentServiceTest.cs",
+              "RelativeToolTip": "TestProject1\\StudentServiceTest.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAA1wEwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T10:17:49.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentNotFoundException.cs",
+              "DocumentMoniker": "D:\\UnitTesttavant\\UnitTestLib\\UnitTestLib\\StudentNotFoundException.cs",
+              "RelativeDocumentMoniker": "UnitTestLib\\StudentNotFoundException.cs",
+              "ToolTip": "D:\\UnitTesttavant\\UnitTestLib\\UnitTestLib\\StudentNotFoundException.cs",
+              "RelativeToolTip": "UnitTestLib\\StudentNotFoundException.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T10:15:26.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "D:\\UnitTesttavant\\UnitTestLib\\UnitTestLib\\StudentService.cs",
+              "RelativeDocumentMoniker": "UnitTestLib\\StudentService.cs",
+              "ToolTip": "D:\\UnitTesttavant\\UnitTestLib\\UnitTestLib\\StudentService.cs",
+              "RelativeToolTip": "UnitTestLib\\StudentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T10:13:34.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoanCalculatorTests.cs",
+              "DocumentMoniker": "D:\\UnitTesttavant\\UnitTestLib\\TestProject1\\LoanCalculatorTests.cs",
+              "RelativeDocumentMoniker": "TestProject1\\LoanCalculatorTests.cs",
+              "ToolTip": "D:\\UnitTesttavant\\UnitTestLib\\TestProject1\\LoanCalculatorTests.cs",
+              "RelativeToolTip": "TestProject1\\LoanCalculatorTests.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA4wBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T09:31:02.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoanCalculator.cs",
+              "DocumentMoniker": "D:\\UnitTesttavant\\UnitTestLib\\UnitTestLib\\LoanCalculator.cs",
+              "RelativeDocumentMoniker": "UnitTestLib\\LoanCalculator.cs",
+              "ToolTip": "D:\\UnitTesttavant\\UnitTestLib\\UnitTestLib\\LoanCalculator.cs",
+              "RelativeToolTip": "UnitTestLib\\LoanCalculator.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T09:26:07.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoanEligibilityTests.cs",
+              "DocumentMoniker": "D:\\UnitTesttavant\\UnitTestLib\\TestProject1\\LoanEligibilityTests.cs",
+              "RelativeDocumentMoniker": "TestProject1\\LoanEligibilityTests.cs",
+              "ToolTip": "D:\\UnitTesttavant\\UnitTestLib\\TestProject1\\LoanEligibilityTests.cs",
+              "RelativeToolTip": "TestProject1\\LoanEligibilityTests.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAiwBcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T08:55:40.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoanEligibilityService.cs",
+              "DocumentMoniker": "D:\\UnitTesttavant\\UnitTestLib\\UnitTestLib\\LoanEligibilityService.cs",
+              "RelativeDocumentMoniker": "UnitTestLib\\LoanEligibilityService.cs",
+              "ToolTip": "D:\\UnitTesttavant\\UnitTestLib\\UnitTestLib\\LoanEligibilityService.cs",
+              "RelativeToolTip": "UnitTestLib\\LoanEligibilityService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAgwBgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T08:51:56.382Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
