@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\UnitTesttavant\\UnitTestControllerDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9B8EA8E4-7BF5-4FAB-B550-9D76D019ED99}|UnitTestUsingMoq\\UnitTestUsingMoq.csproj|d:\\unittesttavant\\unittestcontrollerdemo\\unittestusingmoq\\employeeintegrationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B8EA8E4-7BF5-4FAB-B550-9D76D019ED99}|UnitTestUsingMoq\\UnitTestUsingMoq.csproj|solutionrelative:unittestusingmoq\\employeeintegrationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B8EA8E4-7BF5-4FAB-B550-9D76D019ED99}|UnitTestUsingMoq\\UnitTestUsingMoq.csproj|d:\\unittesttavant\\unittestcontrollerdemo\\unittestusingmoq\\userscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B8EA8E4-7BF5-4FAB-B550-9D76D019ED99}|UnitTestUsingMoq\\UnitTestUsingMoq.csproj|solutionrelative:unittestusingmoq\\userscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CFF2543-1BFE-4474-AB10-39448FDF4FA2}|UnitTestControllerDemo\\UnitTestControllerDemo.csproj|d:\\unittesttavant\\unittestcontrollerdemo\\unittestcontrollerdemo\\data\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CFF2543-1BFE-4474-AB10-39448FDF4FA2}|UnitTestControllerDemo\\UnitTestControllerDemo.csproj|solutionrelative:unittestcontrollerdemo\\data\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CFF2543-1BFE-4474-AB10-39448FDF4FA2}|UnitTestControllerDemo\\UnitTestControllerDemo.csproj|d:\\unittesttavant\\unittestcontrollerdemo\\unittestcontrollerdemo\\data\\userdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CFF2543-1BFE-4474-AB10-39448FDF4FA2}|UnitTestControllerDemo\\UnitTestControllerDemo.csproj|solutionrelative:unittestcontrollerdemo\\data\\userdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CFF2543-1BFE-4474-AB10-39448FDF4FA2}|UnitTestControllerDemo\\UnitTestControllerDemo.csproj|d:\\unittesttavant\\unittestcontrollerdemo\\unittestcontrollerdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CFF2543-1BFE-4474-AB10-39448FDF4FA2}|UnitTestControllerDemo\\UnitTestControllerDemo.csproj|solutionrelative:unittestcontrollerdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CFF2543-1BFE-4474-AB10-39448FDF4FA2}|UnitTestControllerDemo\\UnitTestControllerDemo.csproj|d:\\unittesttavant\\unittestcontrollerdemo\\unittestcontrollerdemo\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CFF2543-1BFE-4474-AB10-39448FDF4FA2}|UnitTestControllerDemo\\UnitTestControllerDemo.csproj|solutionrelative:unittestcontrollerdemo\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CFF2543-1BFE-4474-AB10-39448FDF4FA2}|UnitTestControllerDemo\\UnitTestControllerDemo.csproj|d:\\unittesttavant\\unittestcontrollerdemo\\unittestcontrollerdemo\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CFF2543-1BFE-4474-AB10-39448FDF4FA2}|UnitTestControllerDemo\\UnitTestControllerDemo.csproj|solutionrelative:unittestcontrollerdemo\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CFF2543-1BFE-4474-AB10-39448FDF4FA2}|UnitTestControllerDemo\\UnitTestControllerDemo.csproj|d:\\unittesttavant\\unittestcontrollerdemo\\unittestcontrollerdemo\\data\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CFF2543-1BFE-4474-AB10-39448FDF4FA2}|UnitTestControllerDemo\\UnitTestControllerDemo.csproj|solutionrelative:unittestcontrollerdemo\\data\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserDbContext.cs",
+              "DocumentMoniker": "D:\\UnitTesttavant\\UnitTestControllerDemo\\UnitTestControllerDemo\\Data\\UserDbContext.cs",
+              "RelativeDocumentMoniker": "UnitTestControllerDemo\\Data\\UserDbContext.cs",
+              "ToolTip": "D:\\UnitTesttavant\\UnitTestControllerDemo\\UnitTestControllerDemo\\Data\\UserDbContext.cs",
+              "RelativeToolTip": "UnitTestControllerDemo\\Data\\UserDbContext.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAIBAwBAAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T10:31:10.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeIntegrationTests.cs",
+              "DocumentMoniker": "D:\\UnitTesttavant\\UnitTestControllerDemo\\UnitTestUsingMoq\\EmployeeIntegrationTests.cs",
+              "RelativeDocumentMoniker": "UnitTestUsingMoq\\EmployeeIntegrationTests.cs",
+              "ToolTip": "D:\\UnitTesttavant\\UnitTestControllerDemo\\UnitTestUsingMoq\\EmployeeIntegrationTests.cs*",
+              "RelativeToolTip": "UnitTestUsingMoq\\EmployeeIntegrationTests.cs*",
+              "ViewState": "AgIAABEAAAAAAAAAAAAiwBQAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T10:29:26.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsersControllerTests.cs",
+              "DocumentMoniker": "D:\\UnitTesttavant\\UnitTestControllerDemo\\UnitTestUsingMoq\\UsersControllerTests.cs",
+              "RelativeDocumentMoniker": "UnitTestUsingMoq\\UsersControllerTests.cs",
+              "ToolTip": "D:\\UnitTesttavant\\UnitTestControllerDemo\\UnitTestUsingMoq\\UsersControllerTests.cs",
+              "RelativeToolTip": "UnitTestUsingMoq\\UsersControllerTests.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAUwFMAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T09:05:11.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\UnitTesttavant\\UnitTestControllerDemo\\UnitTestControllerDemo\\Data\\UserRepository.cs",
+              "RelativeDocumentMoniker": "UnitTestControllerDemo\\Data\\UserRepository.cs",
+              "ToolTip": "D:\\UnitTesttavant\\UnitTestControllerDemo\\UnitTestControllerDemo\\Data\\UserRepository.cs",
+              "RelativeToolTip": "UnitTestControllerDemo\\Data\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T09:02:05.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\UnitTesttavant\\UnitTestControllerDemo\\UnitTestControllerDemo\\Program.cs",
+              "RelativeDocumentMoniker": "UnitTestControllerDemo\\Program.cs",
+              "ToolTip": "D:\\UnitTesttavant\\UnitTestControllerDemo\\UnitTestControllerDemo\\Program.cs",
+              "RelativeToolTip": "UnitTestControllerDemo\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAywBMAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T08:59:53.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "D:\\UnitTesttavant\\UnitTestControllerDemo\\UnitTestControllerDemo\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "UnitTestControllerDemo\\Controllers\\UsersController.cs",
+              "ToolTip": "D:\\UnitTesttavant\\UnitTestControllerDemo\\UnitTestControllerDemo\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "UnitTestControllerDemo\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T08:48:40.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "D:\\UnitTesttavant\\UnitTestControllerDemo\\UnitTestControllerDemo\\Data\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "UnitTestControllerDemo\\Data\\IUserRepository.cs",
+              "ToolTip": "D:\\UnitTesttavant\\UnitTestControllerDemo\\UnitTestControllerDemo\\Data\\IUserRepository.cs",
+              "RelativeToolTip": "UnitTestControllerDemo\\Data\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T08:46:14.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\UnitTesttavant\\UnitTestControllerDemo\\UnitTestControllerDemo\\Models\\User.cs",
+              "RelativeDocumentMoniker": "UnitTestControllerDemo\\Models\\User.cs",
+              "ToolTip": "D:\\UnitTesttavant\\UnitTestControllerDemo\\UnitTestControllerDemo\\Models\\User.cs",
+              "RelativeToolTip": "UnitTestControllerDemo\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T08:45:27.547Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
